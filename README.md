@@ -48,8 +48,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalbr77&show_icons=true&locale=en&layout=compact" alt="prajwalbr77" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalbr77&show_icons=true&locale=en" alt="prajwalbr77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalbr77&" alt="prajwalbr77" /></p>
