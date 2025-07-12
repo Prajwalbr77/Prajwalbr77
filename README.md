@@ -20,6 +20,10 @@
 <a href="https://instagram.com/_prajwalbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prajwalbr" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalbr77&show_icons=true&locale=en" alt="prajwalbr77" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalbr77&" alt="prajwalbr77" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -47,7 +51,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalbr77&show_icons=true&locale=en" alt="prajwalbr77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalbr77&" alt="prajwalbr77" /></p>
+<h3 align="left">Support:</h3>
+<p><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PrajwalBR" /></a></p><br><br>
