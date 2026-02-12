@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalbr77&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalbr77" /> </p>
 
 <p align="left">
-  <a href="https://twitter.com/GeminiAI" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/twitter/follow/GeminiAI?style=for-the-badge&logo=x" alt="Twitter Follow Badge" />
   </a>
 </p>
