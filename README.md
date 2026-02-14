@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalbr77&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalbr77" /> </p>
 
 # 💫 About Me:
-Hi 👋 I'm Prajwal B R, a passionate Full-Stack Developer and Computer Science student (BTech CSE 2022–2026) from India 🇮🇳.<br><br>🚀 What I Do<br><br>🌐 Build full-stack web applications using MERN Stack<br><br>⚡ Develop responsive and interactive front-end interfaces<br><br>🔗 Design RESTful APIs and backend architectures<br><br>🛒 Create real-world projects like E-commerce platforms & AI-based apps<br><br>📊 Focus on clean code, optimization, and scalable design
+Hi 👋 I'm Prajwal B R, a passionate Full-Stack Developer and Computer Science student (BTech CSE 2022–2026) from India 🇮🇳.<br><br>🚀 What I Do<br><br>🌐 Build full-stack web applications using MERN Stack<br>⚡ Develop responsive and interactive front-end interfaces<br>🔗 Design RESTful APIs and backend architectures<br>🛒 Create real-world projects like E-commerce platforms & AI-based apps<br>📊 Focus on clean code, optimization, and scalable design
 
 
 ## 🌐 Socials:
